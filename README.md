@@ -12,7 +12,7 @@ Index of articles on jamiegray.net. As I add technical documentation to this rep
 
 copied from markitdown site, to help compile the above list
 
-`
+<code>
 - [February 2017](https://jamiegray.net/open-source-ideas?month=February-2017)
     - [Affinity Designer](https://jamiegray.net/open-source-ideas/2017/affinity-designer)Feb 3, 2017
 
@@ -28,4 +28,4 @@ copied from markitdown site, to help compile the above list
 
 - [June 2016](https://jamiegray.net/open-source-ideas?month=June-2016)
     - [Self-Aware Roads](https://jamiegray.net/open-source-ideas/2016/self-aware-roads)Jun 20, 2016
-`
+</code>
