@@ -32,6 +32,3 @@ copied from markitdown site, to help compile the above list
 - [June 2016](https://jamiegray.net/open-source-ideas?month=June-2016)
     - [Self-Aware Roads](https://jamiegray.net/open-source-ideas/2016/self-aware-roads)Jun 20, 2016
 </code>
-
-test line
->>>>>>> Stashed changes
